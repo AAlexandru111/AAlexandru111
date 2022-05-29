@@ -8,7 +8,7 @@
 
 🌱 I’m currently learning **ASP.NET Core, React, Redux, Security**
 
-💬 Ask me about **ASP.NET Core, EF Core and C#**
+💬 Ask me about **ASP.NET Core and C#**
 
 📫 Reach me at: **andreidotalexandru@gmail.com**
 
