@@ -3,7 +3,7 @@
 <h3>I'm a passionate Full Stack Developer based in Bucharest, Romania.</h3>
 
 🧑‍💻 I’m currently working on:
-  - My **React, C#** and **TypeScript** skills
+  - My **C#, React** and **TypeScript** skills
   - A personal finance mananger app 
 
 🌱 I’m currently learning **ASP.NET Core, React, Redux, Security**
